@@ -2,11 +2,11 @@
 layout: post
 title:  "The Librarians vs the Robots"
 date:   2022-04-25 00:18:33 +0100
-image: /images/finches.jpg
+image:  /images/finches.jpg
 categories: reading update
 ---
 
-Truth and political power are always opposing forces. The execution of Socrates showed being a philosopher in Athens was a dangerous and often fatal pursuit. Aristotle, the smartest of the ancients, left town whenever the authorities paid him too much attention. On one of these trips (346-343 BC), he went to Lesbos and invented biology. He started by dividing living things:
+Truth and political power are opposing forces. The execution of Socrates showed being a philosopher in Athens was a dangerous and often fatal pursuit. Aristotle, the smartest of the ancients, left town whenever the authorities paid him too much attention. On one of these trips (346-343 BC), he went to Lesbos and invented biology. He started by dividing living things:
 
 {% highlight c %}
 Does it move?
