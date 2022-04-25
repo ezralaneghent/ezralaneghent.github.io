@@ -2,6 +2,7 @@
 layout: post
 title:  "The Librarians vs the Robots"
 date:   2022-04-25 00:18:33 +0100
+image: /images/finches.jpg
 categories: reading update
 ---
 
