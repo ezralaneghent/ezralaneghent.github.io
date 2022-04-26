@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ezralaneghent
+facebook_username: ezralaneghent
 #github_username:
 
 # Build settings
@@ -55,3 +56,4 @@ plugins:
 #google_analytics: G-Q136R3HRBX
 google_analytics: UA-227217149-1
 show_excerpts: true
+
