@@ -51,3 +51,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_analytics: G-Q136R3HRBX
+show_excerpts: true
