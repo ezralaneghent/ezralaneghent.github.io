@@ -16,7 +16,7 @@ As an infant, my mother read Ladybird editions to me, often tales from the Broth
 
 As a child, I read the Bible often. It begins with a talking snake and ends with dragons and the horsemen of the apocalypse. You don’t have to be religious to appreciate religious books, you can enjoy them as fantasy. 
 
-There are great monsters and fantasy scenes. Daniel surviving the lion’s den, Job haunted by visions of chaos-beasts, so many more. The first great first American Novel was Moby Dick, about a sailor spooked by a psychopathic whale. It was, in part, a retelling of Jonah’s troubles with the murderous waves and the giant sea monster.
+There are great monsters and fantasy scenes. Daniel surviving the lion’s den, Job haunted by visions of chaos-beasts, so many more. The first great American Novel was Moby Dick, about a sailor spooked by a psychopathic whale. It was, in part, a retelling of Jonah’s troubles with the murderous waves and the giant sea monster.
 
 The Bible contains the “best bits” of six hundreds years of written culture based on an oral culture of storytelling that goes back to the stone age. A lot of similar written material from the same era is being discovered. Some stories made it into the canon of the Old or the New Testaments. Far more fell by the wayside. Hundreds of gospels (stories of Jesus' life) were written, only four made the cut. The stories and letters that became the New Testament were written before 70 AD, but they didn’t have the binding technology to put them into one edition.
 
