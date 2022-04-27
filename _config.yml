@@ -56,4 +56,4 @@ plugins:
 #google_analytics: G-Q136R3HRBX
 google_analytics: UA-227217149-1
 show_excerpts: true
-
+timezone: Europe/London
