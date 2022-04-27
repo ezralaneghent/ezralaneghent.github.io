@@ -6,7 +6,7 @@ image:  https://ezralaneghent.com/images/jonah_and_the_whale.jpg
 categories: reading update
 ---
 
-Last June (2021), an English professor complained that students today only read fantasy books and not proper “modern literature”, such as his book, available in paperback. That click bait spawned Twitter discussion on the nebulous concept of “Literary fiction”. It spawned dialogue with different people in threads that went in multiple directions, not entirely connected to the original theme. I have collected those threads below.
+Last June (2021), an English professor complained that students today only read fantasy books and not proper “modern literature”, such as his book, available in paperback. It was click bait but it led to Twitter discussion on the nebulous concept of “Literary fiction”. That spawned dialogue with different people in threads that went in multiple directions, not entirely connected to the original theme. I have collected those threads below.
 
 | ![Jonah and the Whale (1621) by Pieter Lastman]({{site.url}}/images/jonah_and_the_whale.jpg) | 
 |:--:| 
