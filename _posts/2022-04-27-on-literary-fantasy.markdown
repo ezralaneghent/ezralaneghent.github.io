@@ -117,4 +117,4 @@ The term “Literary fiction” is best replaced by differentiating different id
 |:--:|
 | Lia Turtle by David Revoy |
 
-We started this post talking about click bait. On that topic. I joined the evil empire and started a [Facebook account](https://www.facebook.com/ezralaneghent). Please like and befriend me or whatever the heck we are meant to do there.
+I haven't plugged in a comment system yet, however, you can respond to me on [Twitter](https://twitter.com/ezralaneghent). Tell me what you liked/hated about this post and it will help me to write more. Also, we started this post talking about click bait. On that topic. I joined the evil empire and started a [Facebook account](https://www.facebook.com/ezralaneghent). Please like and befriend me or whatever the heck we are meant to do there.
