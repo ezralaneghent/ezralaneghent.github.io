@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Librarians vs the Robots"
-date:   2022-04-25 00:18:33 +0100
+date:   2022-04-24 00:18:33 +0100
 image:  https://ezralaneghent.com/images/finches.jpg
 categories: reading update
 ---
