@@ -117,4 +117,4 @@ The term “Literary fiction” is best replaced by differentiating different id
 |:--:|
 | Lia Turtle by David Revoy |
 
-I haven't plugged in a comment system yet, however, you can respond to me on [Twitter](https://twitter.com/ezralaneghent). Tell me what you liked/hated and it will help me to write more. We started this post talking about click bait. On that topic. I joined the evil empire and started a [Facebook account](https://www.facebook.com/ezralaneghent). Please like and befriend me or whatever the heck we are meant to do there.
+You may have noticed I discovered how to embed images, did I over do it? I haven't plugged in a comment system yet though, however, you can respond to me on [Twitter](https://twitter.com/EzraLaneGhent/status/1519457659702890496). Tell me what you liked/hated and it will help me to write more. We started this post talking about click bait. On that topic. I joined the evil empire and started a [Facebook account](https://www.facebook.com/ezralaneghent). Please like and befriend me or whatever the heck we are meant to do there.
