@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Literary Fantasy"
-date:   2022-04-27 20:18:33 +0100
+date:   2022-04-28 00:18:33 +0100
 image:  https://ezralaneghent.com/images/jonah_and_the_whale.jpg
 categories: reading update
 ---
