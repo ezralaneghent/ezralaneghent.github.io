@@ -6,9 +6,7 @@ image:  https://ezralaneghent.com/images/jonah_and_the_whale.jpg
 categories: reading update
 ---
 
-Last June (2021), an English professor complained that students today only read fantasy books and not proper “modern literature”, such as his book, available in paperback. This click bait spawned Twitter discussion on the nebulous concept of “Literary fiction”. 
-
-I was in dialogue with different people in threads that went in multiple directions, not entirely connected to the original theme. I have reused that content below. On the topic of click bait, I joined the evil empire and started a [Facebook account](https://www.facebook.com/ezralaneghent). Please like and befriend me or whatever the heck we are meant to do there.
+Last June (2021), an English professor complained that students today only read fantasy books and not proper “modern literature”, such as his book, available in paperback. That click bait spawned Twitter discussion on the nebulous concept of “Literary fiction”. It spawned dialogue with different people in threads that went in multiple directions, not entirely connected to the original theme. I have collected those threads below.
 
 | ![Jonah and the Whale (1621) by Pieter Lastman]({{site.url}}/images/jonah_and_the_whale.jpg) | 
 |:--:| 
@@ -85,7 +83,7 @@ Fleming himself dumbed down the books to please his publisher, keen to make more
 |:--:|
 | 007 - Licence to Sell Overpriced Watches |
 
-[*I’m not sure where the quote below comes from:*]
+[*Not sure where the quote below came from:*]
 
 “Literary authors nowadays are frequently supported by patronage, with employment at a university or a similar institution, and with the continuation of such positions determined not by book sales but by critical acclaim by other established literary authors and critics… On the other hand... genre fiction writers tend to support themselves by book sales.”
 
@@ -118,3 +116,5 @@ The term “Literary fiction” is best replaced by differentiating different id
 | ![An urban fantasy image]({{site.url}}/images/lia_turtle.png) | 
 |:--:|
 | Lia Turtle by David Revoy |
+
+We started this post talking about click bait. On that topic. I joined the evil empire and started a [Facebook account](https://www.facebook.com/ezralaneghent). Please like and befriend me or whatever the heck we are meant to do there.
