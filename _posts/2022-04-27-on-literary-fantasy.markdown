@@ -22,7 +22,7 @@ The Bible contains the “best bits” of six hundreds years of written culture 
 
 The ancient Jews and others wrote with scrolls. Papyrus wound around a wooden roll, not unlike a huge version of toilet paper. They become unmanageable after about twenty thousand words and have an upper limit of thirty-thousand words. You can’t fit many in box or a cupboard.
 
-English is wordier than ancient languages, but the most concise of English translations, the Authorised Version (US: King James Version), had 783,137 words. Finding a format for the Bible was largely the reason that the codex format (what we call a book) developed from Roman military notebooks. The canonical version of the anthology we call the Bible certainly existed by 367 AD. It was the first bestseller, and the offer of eternal life was one heck of a "reader magnet".
+English is wordier than ancient languages, but the most concise of English translations, the Authorised Version (US: King James Version), had 783,137 words. Finding a format for the Bible was largely the reason that the codex format (what we call a book) developed from Roman military notepads. The canonical version of the anthology we call the Bible certainly existed by 367 AD. It was the first bestseller, and the offer of eternal life was one heck of a "reader magnet".
 
 | ![The Silent Highwayman by John Leech (1858)]({{site.url}}/images/the_silent_highwayman.jpg) | 
 |:--:| 
