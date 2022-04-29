@@ -57,3 +57,9 @@ plugins:
 google_analytics: UA-227217149-1
 show_excerpts: true
 timezone: Europe/London
+title_image: /images/smaug_par_david_demaret.jpg
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/smaug_par_david_demaret.jpg
