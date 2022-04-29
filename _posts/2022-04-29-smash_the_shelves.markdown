@@ -32,4 +32,4 @@ Many years ago, there was pulp fantasy and sci-fi sold in a supermarket rack for
 
 Writers claim, for marketing reasons, to be a “Amazon number one bestselling author”, when they sold four books in an obscure sub-category. I’m sure one day that I’ll join them in that wheeze. But are there readers who decide to read “Science Fiction: Colonisation: Galactic Empire Science Fiction: Adult Space Hybrid Relationship” for the rest of their lives? Maybe there are. It’s better than not reading at all. When authors mix up genre conventions, when an ancient legionary finds an Apollo lander, I don't want the surprise to be ruined because the book was shelved under "Romans in Space". Maybe it's just because I am not a joiner, but for me, to pigeonhole a book is to kill its soul. 
 
-But what do you think? Tell me at the [Twitter thread](https://twitter.com/ezralaneghent), or the [Facebook thread](https://www.facebook.com/ezralaneghent/posts/103936122313404).
+But what do you think? Tell me at the [Twitter thread](https://twitter.com/EzraLaneGhent/status/1520033161786314753), or the [Facebook thread](https://www.facebook.com/ezralaneghent/posts/103936122313404).
