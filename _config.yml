@@ -61,4 +61,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/smaug_par_david_demaret_small.jpg
+      image: https://ezralaneghent.com/images/smaug_par_david_demaret_small.jpg
