@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ezra Lane Ghent
+title: Lovers And Madmen - Ezra's Homepage
+author: Ezra Lane Ghent
 #email:
 tagline: Reading and writing fantasy and science fiction
 description: >- # this means to ignore newlines until "baseurl:"
