@@ -12,7 +12,7 @@ I got excited about making an “author platform”, set this whole blog up and 
 |:--:| 
 | And now AI generated images are a thing. I bet that doesn't getting annoying quickly! |
 
-Except in my fiction, I am striving to write and rewrite every word, paragraph, and scene, to the best of my ability. If I do that with blogging, I would have time to blog, which is what has happened: quod erat demonstrandum.
+In my fiction, I am striving to write and rewrite every word, paragraph, and scene, to the best of my ability. If I do that with blogging, I would have time to blog, which is what has happened: quod erat demonstrandum.
 
 Someone said to me Ezra - you got to stop overthinking it, just type some crap and throw it over the wall. Right, so here we are, at the gates of hell, where it’s written: “Abandon all hope, ye who enter here.”
 
