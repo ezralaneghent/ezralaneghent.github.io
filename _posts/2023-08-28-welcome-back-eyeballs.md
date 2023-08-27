@@ -16,7 +16,7 @@ In my fiction, I am striving to write and rewrite every word, paragraph, and sce
 
 Someone said to me Ezra - you got to stop overthinking it, just type some crap and throw it over the wall. Right, so here we are, at the gates of hell, where it’s written: “Abandon all hope, ye who enter here.”
 
-I don’t even understand the first three posts. It was part of a series (presumably?) leading somewhere, but I never wrote enough to get there, and I have long forgotten what the destination was. I would dig out the laptop I used a year and a half ago and figure it out, but it's in a another country.
+I don’t even understand the first three posts. It was part of a series (presumably?) leading somewhere, but I never wrote enough to get there, and I have long forgotten what the destination was. I would dig out the laptop I used a year and a half ago and figure it out, but it's in a another country. So the mystery must remain.
 
 I realise I have a kind of imposter syndrome: people might judge my (eventually?) forthcoming books by the fast typed nonsense I have written here. Even though it is a different medium. In fiction, I can spend an hour on a key 50 words, yet I wrote this 1500+ word post in around an hour. So that’s thirty times faster. 
 
