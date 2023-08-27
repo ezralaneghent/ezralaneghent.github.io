@@ -20,7 +20,7 @@ I don’t even understand the first three posts. It was part of a series (presum
 
 I realise I have a kind of imposter syndrome: people might judge my (eventually?) forthcoming books by the fast typed nonsense I have written here. Even though it is a different medium. In fiction, I can spend an hour on a key 50 words, yet I wrote this 1500+ word post in around an hour. So that’s thirty times faster. 
 
-You also need a dialogue, not a one-way street. I never got around to adding the comments and backlinks system. So the lack of engagement, which was my fault, made me give up. Although, would I have ever gotten any replies if I had bothered to make the comments system? 
+To be inspire me to write here, it needs a dialogue, not a one-way street. I never got around to adding the comments and backlinks system. So the lack of engagement, which was my fault, made me give up. Although, would I have ever gotten any replies if I had bothered to make the comments system? 
 
 I’m not sure. There are so many blogs today. I’m sure in the late 1990s, people were so excited to go online for the first time, they would read any old junk. However, in this era, the content to eyeball ratio is different. And now we have AIs assisting the flood of text.
 
