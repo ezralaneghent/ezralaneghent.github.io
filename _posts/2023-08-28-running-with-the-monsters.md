@@ -6,7 +6,7 @@ image: https://ezralaneghent.com/images/girlrun4.png
 categories: fantasy writing
 date: 2023-08-28 14:18 +0100
 ---
-[Yesterday](https://ezralaneghent.com/writing/update/2023/08/28/welcome-back-eyeballs.html), I mentioned the difference in writing stories set in a recognisably here modern world, “urban” for short, as opposed to an “epic” world, such as an ancient/medieval-technology fantasy world or a society that evolved on a different planet with resulting consequences.  
+[Yesterday](https://ezralaneghent.com/writing/update/2023/08/28/welcome-back-eyeballs.html), I mentioned the difference in writing stories set in a recognisably here modern world, “urban” for short, as opposed to an “epic” world, such as an ancient/medieval/futuristic fantasy world or a society that evolved on a different planet with resulting consequences.
 
 E.g. you don’t have to show through action how the imaginary and original form of transport works through a long winding journey. You can just have the characters get in a car and go.
 
