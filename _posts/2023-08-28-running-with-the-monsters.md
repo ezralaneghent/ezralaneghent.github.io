@@ -48,17 +48,17 @@ If Leonardo DiCaprio doesn’t [fly to pick up climate awards](https://www.indep
 
 I could have picked many issues, not just the tech components issue or the hypocrisy or private jets, but the harsh truth is there is pants we can do about it as individuals, and the powers that be will never let us organise as a group if it really threatens their interests, their hold on the resources. They will allow some protest and organisation if they can subvert it to their interests, as a pressure release, but that’s as far as they will allow.
 
-I love that scene in the Matrix (1999) where the main character is struggling with deep issues. The character called the Oracle just resets him with the line:
+I love the scene in the Matrix (1999) where the main character is struggling with deep issues. The character called the Oracle just resets him with the line:
 
 “Don’t worry about it, as soon as you step outside that door, you’ll start feeling better….. here, take a cookie, I promise you’re done eating it, you’ll feel right as rain”.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nvaE_HCMimQ?si=Fn8-3PxjwD3i5GM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Some people have tried to interpret this scene in different ways, e.g. the door was magic or the cookies contained special source code. But I like the idea they are just a door and cookies. As Taylor Swift sings, we humans have an amazing capacity to “shake it off” and just press on. This works both ways. Not just shaking off bullies, we can shake off victims too. The production of your phone may be killing children, “shake it off”. There are slaves now in Africa, “shake it off.”
+People have tried to interpret this scene in different ways, e.g. the door was magic or the cookies contained special source code. But I like the idea they are just a door and cookies. As Taylor Swift sings, we humans have an amazing capacity to “shake it off” and just press on. This works both ways. Not just shaking off bullies, we can shake off victims too. The production of your phone may be killing children, “shake it off”. There are slaves now in Africa, “shake it off.”
 
-The religious answer to that is because this world will never be perfect, to help us search for God and a better life to come. Hmmm, I don’t know about that. That gives mental peace, but peace through surrender. I’m still thinking about that. Is that like Oracle’s cookie above?
+The religious answer to that is because this world will never be perfect, to help us search for God and a better life to come. Hmmm, I don’t know about that. That gives mental peace, but peace through surrender. I’m still thinking about that. Is that like the Matrix’s cookie above?
 
-In fiction, we can explore these issues more freely. And if it’s too hard to talk about in an urban setting, turning into a fantasy is better than not writing about it at all. In extremis, if we do it too well, if we get too close to the truth, they will ban the book. There is never any need to ban falsehoods, as you can disprove them with truth. They only need to ban the inconvenient truths.
+In fiction, we can often explore these issues more freely and more deeply than the politicians or journalists can. And if it’s too hard to talk about in an urban setting, turning into a fantasy is better than not writing about it at all. In extremis, if we do it too well, if we get too close to the truth, they will ban the book. There is never any need to ban falsehoods, as you can disprove them with truth. They only need to ban the inconvenient truths.
 
 Discworld, and other books about people living on a flat earth, are never banned, because it’s easy to prove we live on a spherical earth, but Nineteen Eighty-four (1949) by George Orwell was a science fiction book showing how the elite can use the media to brainwash the people, that’s been banned a lot by all sides of the political divide.
 
