@@ -8,7 +8,7 @@ date: 2023-08-28 14:18 +0100
 ---
 [Yesterday](https://ezralaneghent.com/writing/update/2023/08/28/welcome-back-eyeballs.html), I mentioned the difference in writing stories set in a recognisably here modern world, “urban” for short, as opposed to an “epic” world, such as an ancient/medieval/futuristic fantasy world or a society that evolved on a different planet with resulting consequences.
 
-E.g. in an epic setting, you may have to show through action how the imaginary and original form of transport works through a long winding journey. In an urban setting, you can just have the characters get in a car and go.
+E.g. in an epic setting, you may have to show through action how the imaginary and original form of transport works through a long winding journey. In an urban setting, you can just have the characters get in a car and go to the next location.
 
 On the other hand, Fantasy helps to level the ground and removes all the baggage. When reading stories about talking ants on the planet Zog, it doesn’t matter what your social/political/economic/cultural situation is here on earth, you can just as easily suspend disbelief (or not) as everyone else. It’s the quality (or lack thereof) of the writing that allows you to immerse (or not).
 
