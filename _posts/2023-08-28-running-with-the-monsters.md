@@ -46,7 +46,7 @@ Even those activists who give their lives to fixing an issue, can [never breakth
 
 If Leonardo DiCaprio doesn’t [fly to pick up climate awards](https://www.independent.co.uk/news/people/leonardo-dicaprio-flies-8-000-miles-in-private-jet-to-accept-green-award-a7042326.html) (and to his [private island](https://www.caribjournal.com/2015/04/05/leonardo-dicaprio-is-developing-a-private-island-caribbean-resort/), and [parties on the west and east coast](https://pagesix.com/2021/12/02/leo-dicaprio-takes-jet-round-trip-to-nyc-to-party-in-miami/)) in his private jet, then we peasants will cover ourselves in crude oil, set ourselves alight and run screaming into the forests.
 
-I could have picked many issues, not just the tech components issue or the hypocrisy or private jets, but the harsh truth is there is pants we can do about it as individuals, and the powers that be will never let us organise as a group if it really threatens their interests, their hold on the resources. They will allow some protest and organisation if they can subvert it to their interests, as a pressure release, but that’s as far as they will allow.
+I could have picked many issues, not just the tech components issue or the hypocrisy of private jets, but the harsh truth is there is pants we can do about it as individuals, and the powers that be will never let us organise as a group if it really threatens their interests, their hold on the resources. They will allow some protest and organisation if they can subvert it to their interests, as a pressure release, but that’s as far as they will allow.
 
 I love the scene in the Matrix (1999) where the main character is struggling with deep issues. The character called the Oracle just resets him with the line:
 
