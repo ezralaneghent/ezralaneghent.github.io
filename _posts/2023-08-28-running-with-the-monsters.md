@@ -14,9 +14,9 @@ On the other hand, Fantasy helps to level the ground and removes all the baggage
 
 | ![A girl running from a big monster]({{site.url}}/images/girlrun1.png) |
 |:--:|
-| I didn't expect that on the way to school, luckily I put my good boots on |
+| I didn't expect that on the way to school, luckily I put my good boots on. |
 
-With fantasy, you can show evil through giant monsters, or quite calm things, such as in C. S. Lewis’ Narnia series (e.g. taking Turkish delight from a witch), or things which don’t occur in modern life, as in Geoffrey of Monmouth’s Historia Regum Britanniae, King Uther Pendragon falls in lust with Igraine, the most beautiful lady in Britain, so he gets the court wizard to shapeshift him into the appearance of her husband and he gets his night of passion, which results in a secret heir, Arthur, but also the inciting incident for Arthur’s enemies to hate him too.
+With fantasy, you can show evil through giant monsters, or quite calm things, such as in C. S. Lewis’ Narnia series (e.g. taking Turkish delight from a witch), or things which don’t occur in real life, as in Geoffrey of Monmouth’s Historia Regum Britanniae, King Uther Pendragon falls in lust with Igraine, the most beautiful lady in Britain, so he gets the court wizard to shapeshift him into the appearance of her husband and he gets his night of passion, which results in a secret heir, Arthur, but also the inciting incident for Arthur’s enemies to hate him too.
 
 (Referring to yesterday’s post, maybe that’s how I get a Christopher Tolkien to edit all my books for me. All I need is a wizard and a supermodel. Applications are open for both roles.)
 
