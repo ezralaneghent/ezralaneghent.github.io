@@ -28,7 +28,7 @@ Somehow the villains and antiheroes prospering, or plain getting off, on perform
 |:--:|
 | Another beast, man I can't catch a break |
 
-When writing urban stories, it’s more “problematic” in that in my quest to make the characters believable and the plot exciting, the characters are corrupt corporate leaders, corrupt bureaucrats, bent cops, power-hungry politicians, creeps, freaks and losers and they do a lot of hedonistic and immoral acts. Just like we all do.
+When writing urban stories, it’s more “problematic” in that in my quest to make the characters believable and the plot exciting, the characters are corrupt corporate leaders, corrupt bureaucrats, bent cops, power-hungry politicians, criminals, terrorists, creeps, freaks and losers and they do a lot of hedonistic and immoral acts. Just like we all do.
 
 The grim and the dark hits home harder, perhaps too hard, because we live in this kind of world where people do evil things, and we just get on with our day and leave the powerful and corrupt to it. Indeed, we all benefit from it. What form of [living hell did people in the developing world go through](https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/) to mine the rare earth metals in the battery on the device you reading this on now? Or who assembled the device in a sweatshop factory in the far east? Or who made the servers in the cloud farm that this webpage was downloaded from? Who made the clothes you are wearing?
 
