@@ -29,7 +29,7 @@ Yet, it is not a C-movie. The film has a semi-coherent beginning, middle, and en
 
 | ![Attractive but dumb slacker student reclining in lecture theatre]({{site.url}}/images/all_american_girl/all_american_girl_14.png) |
 |:--:|
-| The script makes no sense, but I have boobs, probably. |
+| The executive meddling made this film make no sense, but I have boobs, probably. I don't get paid enough to show them until Black Swan. |
 
 Of course, this is not a tent-pole A-movie either. But it is on par with *Murder, She Wrote* (a show referenced in the film), with the campus setting evoking an insular, Cabot Cove-like atmosphere. The remnants of the original script hint at a Scream-style parody of *The Silence of the Lambs* or a Heathers-esque dark teen comedy.
 
