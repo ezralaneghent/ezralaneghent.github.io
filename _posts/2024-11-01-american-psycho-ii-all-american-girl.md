@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Psycho II: All American Girl'
-excerpt: A 2012 B-Movie made by executive fiat. Is it as bad as it sounds? Yes and No.
+excerpt: A 2002 B-Movie made by executive fiat. Is it as bad as it sounds? Yes and No.
 date: 2024-11-01 22:44 +0000
 image: https://ezralaneghent.com/images/all_american_girl/all_american_girl_0.png
 categories: movies bmovies 
